@@ -26,3 +26,11 @@ git checkout -b main
 ```
 git status
 ```
+
+```
+git log
+```
+
+```
+git diff
+```

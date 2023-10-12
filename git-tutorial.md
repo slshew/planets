@@ -34,3 +34,13 @@ git log
 ```
 git diff
 ```
+
+```
+git diff HEAD <file>
+git diff HEAD~1 <file>
+```
+
+```
+git show HEAD <file>
+git show HEAD~1 <file>
+```
